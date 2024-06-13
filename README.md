@@ -1,4 +1,4 @@
-# cs252 Object Oriented Programming
+# CS252 Object Oriented Programming
 
 The course CS240 Web Programming I was provided by Park University and taught by Kenneth Dewey from October 17, 2022, to December 11, 2022.
 
